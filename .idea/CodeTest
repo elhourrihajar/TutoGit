@@ -1,0 +1,2 @@
+select * from personne
+select age from personne where age>10
